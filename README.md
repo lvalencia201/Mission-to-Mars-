@@ -6,10 +6,13 @@ Dana can use the webpage by applying the filter button to each one the data is f
 
 By Date:# 
 ![image](https://user-images.githubusercontent.com/74515412/119749235-ad64bf00-be64-11eb-9ae8-3a9c13f1a7ec.png)
+
 By City:
 ![image](https://user-images.githubusercontent.com/74515412/119749260-bce40800-be64-11eb-9ae6-d1055fd48143.png)
+
 By State:
 ![image](https://user-images.githubusercontent.com/74515412/119749286-cbcaba80-be64-11eb-9a13-c480b96c496c.png)
+
 By Country
 ![image](https://user-images.githubusercontent.com/74515412/119749320-e0a74e00-be64-11eb-9be4-eb087d4549cd.png)
 
